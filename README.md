@@ -1,6 +1,8 @@
 # Theme CSS example
 An example of multiple theme support using CSS variables.
 
+[DEMO](https://uche789.github.io/projects/theme-css-example/)
+
 ## Solution
 Global CSS variables are usually defined in the `:root` selector. Because of legacy browser support, you should define all css variables here.
 
